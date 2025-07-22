@@ -20,7 +20,7 @@ This analysis helps in:
 7. Analyzed cities with the highest weekend spend-to-transaction ratio, useful for event-based promotions.
 8. Found which city reached 500 transactions fastest, reflecting high customer activity.
 
-**Business Impact of Insights****
+**Business Impact of Insights**
 1. By focusing campaigns on top-spending cities and expense types, businesses can achieve 10-15% better ROI.
 2. Insights into gender contributions and card type preferences enable personalized offers, increasing engagement.
 3. Understanding spending peaks helps plan discounts and promotions during high-activity months.
